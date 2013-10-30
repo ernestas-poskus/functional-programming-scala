@@ -34,10 +34,10 @@ The course is hands on; most units introduce short programs that serve as illust
 The course is complemented by a series of assignments, most of which are also programming projects.
 
 ## Course Syllabus
-Week One: Programming paradigms; overview of functional programming and the Scala programming language.
-Week Two: Defining and using functions, recursion and non-termination, working with functions as values, reasoning by reduction. 
-Week Three: Defining and using immutable objects, review of inheritance and dynamic binding.
-Week Four: Types and Pattern Matching
-Week Five: Working with Lists
-Week Six: Collections and Combinatorial Search
-Week Seven: Lazy Evaluation
+- Week One: Programming paradigms; overview of functional programming and the Scala programming language.
+- Week Two: Defining and using functions, recursion and non-termination, working with functions as values, reasoning by reduction. 
+- Week Three: Defining and using immutable objects, review of inheritance and dynamic binding.
+- Week Four: Types and Pattern Matching
+- Week Five: Working with Lists
+- Week Six: Collections and Combinatorial Search
+- Week Seven: Lazy Evaluation
